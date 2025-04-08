@@ -301,7 +301,7 @@ $form.Controls.Add($buttonCreate)
 $labelFooter = New-Object Windows.Forms.Label
 $labelFooter.Text = "Сделано @MikeWazowskai"
 $labelFooter.Font = New-Object Drawing.Font("Arial", 8, [Drawing.FontStyle]::Italic)
-$labelFooter.Location = New-Object Drawing.Point(295, 610)
+$labelFooter.Location = New-Object Drawing.Point(290, 610)
 $labelFooter.Size = New-Object Drawing.Size(250, 20)
 
 $form.Controls.Add($labelFooter)
